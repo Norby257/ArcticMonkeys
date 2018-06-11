@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Albums from './Albums.json'
 import Header from './components/Header'
+import Footer from './components/Footer'
 import AlbumCard from './components/AlbumCard'
 import logo from './logo.svg';
 import './App.css'
@@ -28,6 +29,7 @@ class App extends Component {
           key={album.id}
           image={album.image} />
         ))} */}
+        <Footer />
       </div>
     );
   }
