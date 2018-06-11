@@ -23,12 +23,12 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <Header />
-        {/* {this.state.Albums.map(album => (
+        {this.state.Albums.map(album => (
           <AlbumCard
           id={album.id}
           key={album.id}
           image={album.image} />
-        ))} */}
+        ))}
         <Footer />
       </div>
     );

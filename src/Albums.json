@@ -2,33 +2,33 @@
     {
         "id": 1,
         "name": "Tranquility base hotel and casino",
-        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.punknews.org%2Fimages%2Fcovers%2Farctic-monkeys-tranquility-base-hotel-and-casino.jpg&imgrefurl=https%3A%2F%2Fwww.punknews.org%2Freview%2F15782%2Farctic-monkeys-tranquility-base-hotel-and-casino&docid=-lGtTzd5dvwXmM&tbnid=c4gxWtbxvikrCM%3A&vet=10ahUKEwji5ozEp8nbAhUKrlQKHfDXDzYQMwgmKAAwAA..i&w=200&h=200&hl=en&bih=722&biw=1400&q=arctic%20monkeys%20tranquility%20base%20hotel%20%26%20casino&ved=0ahUKEwji5ozEp8nbAhUKrlQKHfDXDzYQMwgmKAAwAA&iact=mrc&uact=8"
+        "image": "/assets/images/tranquility_base.jpg"
 
     },
 
     {
         "id": 2,
         "name": "AM",
-        "image": "../public/images/AM.jpg"
+        "image": "/assets/images/AM.jpg"
     },
 
     {
         "id": 3,
         "name": "Favourite Nightmare",
-        "image": "../public/images/favourite_nightmare.jpg"
+        "image": "assets/images/favourite_nightmare.jpg"
 
     },
 
     {
         "id": 4,
         "name": "Suck it and See",
-        "image": "../public/images/suck_it_and_see.jpg"
+        "image": "assets/images/suck_it_and_see.jpg"
     },
 
     { 
         "id": 5,
         "name": "EP",
-        "image": "../public/images/EP.jpg"
+        "image": "assets/images/EP.jpg"
     }
 
 ]
