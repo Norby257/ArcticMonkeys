@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Tranquility base hotel and casino",
+        "image": "/assets/images/tranquility_base.jpg"
+
+    },
+
+    {
+        "id": 2,
+        "name": "AM",
+        "image": "/assets/images/AM.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Favourite Nightmare",
+        "image": "assets/images/favourite_nightmare.jpg"
+
+    },
+
+    {
+        "id": 4,
+        "name": "Suck it and See",
+        "image": "assets/images/suck_it_and_see.jpg"
+    },
+
+    { 
+        "id": 5,
+        "name": "EP",
+        "image": "assets/images/EP.jpg"
+    }
+
+]
