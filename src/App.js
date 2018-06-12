@@ -3,6 +3,7 @@ import Albums from './Albums.json'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import AlbumCard from './components/AlbumCard'
+import coverPhoto from './components/CoverPhoto'
 import logo from './logo.svg';
 import './App.css'
 ;
@@ -23,6 +24,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <Header />
+        <coverPhoto />
         {this.state.Albums.map(album => (
           <AlbumCard
           id={album.id}
