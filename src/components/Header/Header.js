@@ -13,8 +13,8 @@ class Header extends Component {
           
               <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul className="nav navbar-nav">
-                  <li className="active"><a href="https://github.com/Norby257" target="_blank" rel="noopener noreferrer"> <i class="fa fa-github-square w3-hover-opacity"></i></a></li>
-                  <li className="active"><a href="https://linkedin.com/in/nmaddenling" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin w3-hover-opacity"></i></a></li>
+                  <li className="active"><a href="https://github.com/Norby257" target="_blank" rel="noopener noreferrer"> <i className="fa fa-github-square w3-hover-opacity"></i></a></li>
+                  <li className="active"><a href="https://linkedin.com/in/nmaddenling" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin w3-hover-opacity"></i></a></li>
                   
                 </ul>
                 <form className="navbar-form navbar-left">

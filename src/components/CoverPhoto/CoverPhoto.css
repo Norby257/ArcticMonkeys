@@ -1,0 +1,7 @@
+.coverPhoto {
+    background-image: url( '/assets/images/coverPhoto.jpg');
+    background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center center;
+              
+}

@@ -1,20 +1,13 @@
 import React, {Component} from 'react';
+import './CoverPhoto.css'
 
 
 
-class coverPhoto extends Component {
+class CoverPhoto extends Component {
     render() {
         return (
-            <div>
-                 {{ imgUrl: './public/assets/images/coverPhoto.jpg'}}
-                styles = {{ backgroundImage: `url ${imgUrl}`,
-                            backgroundSize: `cover`,
-                            backgroundPosition: `cente rcenter`,
-                            backgroundRepeat: `no-repeat`,
-            
-            }}
-
-              
+            <div className ="coverPhoto">
+                
                
             </div>
 
@@ -22,4 +15,5 @@ class coverPhoto extends Component {
     }
 }
 
-export default coverPhoto;
+export default CoverPhoto;
+

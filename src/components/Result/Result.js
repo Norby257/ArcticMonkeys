@@ -16,6 +16,8 @@ class Result extends Component {
     }
 }
 
-//  
+//  life cycle methods 
+
+//  set state 
 
 export default Result;
